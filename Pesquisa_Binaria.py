@@ -6,4 +6,4 @@ def pesquisa_binaria(lista, item):
         meio = (baixo + alto) / 2
         chute = lista[meio]
         if chute == item:
-            return == item:
+            return meio
