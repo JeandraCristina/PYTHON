@@ -8,3 +8,4 @@ def pesquisa_binaria(lista, item):
         if chute == item:
             return meio
         if chute > item:
+            alto = meio -1
