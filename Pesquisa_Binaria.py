@@ -9,3 +9,6 @@ def pesquisa_binaria(lista, item):
             return meio
         if chute > item:
             alto = meio -1
+        else:
+            baixo = meio +1
+    return None            
