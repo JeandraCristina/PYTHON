@@ -7,3 +7,4 @@ def pesquisa_binaria(lista, item):
         chute = lista[meio]
         if chute == item:
             return meio
+        if chute > item:
