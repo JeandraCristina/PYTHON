@@ -11,4 +11,10 @@ def pesquisa_binaria(lista, item):
             alto = meio -1
         else:
             baixo = meio +1
-    return None            
+    return None
+
+minha_lista = [1, 3, 5, 7, 9]
+
+
+
+            
