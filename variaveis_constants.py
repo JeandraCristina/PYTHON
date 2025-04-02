@@ -23,3 +23,6 @@ x *= 2
 x -= 3
 
 print(x)
+
+nome = 'Jadna'
+print(nome.upper())
