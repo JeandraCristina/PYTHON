@@ -13,3 +13,6 @@ def divisao_n (a,b):
         return print("Não é possível dividir por zero")
     else:
         return print(a / b)
+    
+def potencia_n (a,b):
+    return print(a ** b)    
