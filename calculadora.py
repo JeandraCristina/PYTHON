@@ -15,4 +15,8 @@ def divisao_n (a,b):
         return print(a / b)
     
 def potencia_n (a,b):
-    return print(a ** b)    
+    return print(a ** b)
+
+def raiz_quadrada_n (a):
+    return print(a**(1/2)) 
+    
