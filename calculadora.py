@@ -19,4 +19,9 @@ def potencia_n (a,b):
 
 def raiz_quadrada_n (a):
     return print(a**(1/2)) 
-    
+
+soma_n(3,2) 
+subtracao_n(28,5) 
+multiplicacao_n(6,2)
+divisao_n(8,2)
+potencia_n(2,5)    
