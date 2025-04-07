@@ -1,6 +1,6 @@
 import calculadora
 
-c = 's'
+c = "s"
 
 while c == "s":
     a = float(input("Digite o primeiro numero: "))
@@ -20,4 +20,5 @@ while c == "s":
         calculadora.potencia_n(a)          
     else:
         print("Não escolheu nenhum numero.")  
-    c = str(input("Deseja continuar? (S/N)"))          
+    c = str(input("Deseja continuar? (S/N)")) 
+             
