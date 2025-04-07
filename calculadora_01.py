@@ -18,4 +18,6 @@ while c == "s":
         calculadora.divisao_n(a,b)
     elif e == 5:
         calculadora.potencia_n(a)          
-        
+    else:
+        print("Não escolheu nenhum numero.")  
+    c = str(input("Deseja continuar? (S/N)"))          
