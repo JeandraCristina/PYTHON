@@ -9,3 +9,4 @@ while c == "s":
     e = int(input("1 - Soma\n2 - Subtração\n3 - Multiplicação\n4 - Divisão\n5 - Potência\n: "))
     
     if e == 1:
+         calculadora.soma_n(a,b)
