@@ -39,5 +39,5 @@ while contador <= expoente:
 print(f"{base} elevado a {expoente} é igual a {resultado:.2f}")  
 print("Fim")      
     
-    """
+"""
  
