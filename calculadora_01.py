@@ -14,4 +14,6 @@ while c == "s":
         calculadora.subtracao_n(a,b)
     elif e == 3:
         calculadora.multiplicacao_n(a,b)
-        
+     elif e == 4:
+        calculadora.divisao_n(a,b)
+            
