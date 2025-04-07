@@ -10,5 +10,8 @@ while c == "s":
     
     if e == 1:
          calculadora.soma_n(a,b)
-         elif e == 2:
+    elif e == 2:
         calculadora.subtracao_n(a,b)
+    elif e == 3:
+        calculadora.multiplicacao_n(a,b)
+        
