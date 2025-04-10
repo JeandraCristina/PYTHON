@@ -29,4 +29,11 @@ def quadrado(numero):
 #Chamando a Função
 resultado = quadrado(5)
 print(resultado)
-    
+
+#----------------------------------------------------------------------------------------------
+
+#Criando uma função do programador sem passagem de parâmetro
+#Início da função
+#def linha():
+#    print("#"*100)
+#Fim da Função    
