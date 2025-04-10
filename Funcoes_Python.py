@@ -36,4 +36,12 @@ print(resultado)
 #Início da função
 #def linha():
 #    print("#"*100)
-#Fim da Função    
+#Fim da Função  
+
+#-------------------------------------------------------------------------------------------------
+
+#Início do programa
+#print("Inicio do Programa")
+#linha()
+#print("Fim do programa")
+#Fim de Programa   
