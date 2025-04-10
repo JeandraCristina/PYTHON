@@ -130,5 +130,26 @@ devem ser salvos juntos na pasta do programa.
 """
 #-------------------------------------------------------------------------------------------
 
-
+#Programa da Calculadora
+"""
+import calculadora
+c = "s"
+while c == "s":
+    a = float(input("Digite o Primeiro Numero: "))
+    b = float(input("Digite o segundo Numero: "))
+    print("Escolha uma função matemática")
+    e = int(input("1 - Soma\n2 - subtração\n3 - Multiplicação\n4 - Divisão\n: "))
+    if e == 1:
+        calculadora.soma_n(a,b)
+    elif e == 2:
+        calculadora.subtracao_n(a,b)
+    elif e == 3:
+        calculadora.multiplicacao_n(a,b)
+    elif e == 4:
+        calculadora.divisao_n(a,b)
+    else:
+        print("Não escolheu nenhum numero")
+    c = str(input("Deseja continuar? [S/N] "))
+print("Programa finalizado")
+"""
  
