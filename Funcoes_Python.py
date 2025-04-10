@@ -14,4 +14,9 @@ A palavra-chave "def" indica o início da definição da função.
 "argumentos" são valores que você pode passar para a função para que ela possa trabalhar com eles.
 Os argumentos são opcionais e você pode ter quantos quiser (ou nenhum). 
 Eles são separados por vírgulas.
-    
+O corpo da função é onde você coloca as instruções que serão executadas quando a função for chamada. 
+O corpo é identado com quatro espaços (ou um tab).
+"return" é uma palavra-chave que indica qual é o valor de retorno da função. 
+Quando a função é chamada, ela executa o código no seu corpo e, em seguida, 
+retorna o valor especificado pelo "return". Se a função não tiver um "return", ela retorna "None".
+"""    
