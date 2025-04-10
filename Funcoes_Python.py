@@ -19,4 +19,14 @@ O corpo é identado com quatro espaços (ou um tab).
 "return" é uma palavra-chave que indica qual é o valor de retorno da função. 
 Quando a função é chamada, ela executa o código no seu corpo e, em seguida, 
 retorna o valor especificado pelo "return". Se a função não tiver um "return", ela retorna "None".
-"""    
+"""
+
+#Criando a Função
+def quadrado(numero):
+    resultado = numero ** 2
+    return resultado
+
+#Chamando a Função
+resultado = quadrado(5)
+print(resultado)
+    
