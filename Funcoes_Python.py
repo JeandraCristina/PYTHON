@@ -84,4 +84,10 @@ para permitir que a função seja chamada sem fornecer valores para eles.
 
 #------------------------------------------------------------------------------------------
 
+#resultado = soma(1, 2, 3)
+#print(resultado)
+#Fim de Programa
+
+#-----------------------------------------------------------------------------------------
+
   
