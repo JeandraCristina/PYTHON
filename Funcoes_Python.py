@@ -90,4 +90,9 @@ para permitir que a função seja chamada sem fornecer valores para eles.
 
 #-----------------------------------------------------------------------------------------
 
+"""Argumentos variáveis: Use a notação * para 
+receber uma quantidade variável de argumentos."""
+
+#-------------------------------------------------------------------------------------------
+
   
