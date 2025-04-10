@@ -95,4 +95,14 @@ receber uma quantidade variável de argumentos."""
 
 #-------------------------------------------------------------------------------------------
 
+#Início da função
+#def soma(*números):
+#    total = 0
+#    for n in números:
+#        total += n
+#    return total
+#Fim da Função
+
+#------------------------------------------------------------------------------------------
+
   
