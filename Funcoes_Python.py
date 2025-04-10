@@ -44,4 +44,13 @@ print(resultado)
 #print("Inicio do Programa")
 #linha()
 #print("Fim do programa")
-#Fim de Programa   
+#Fim de Programa 
+
+#----------------------------------------------------------------------------------------------------
+
+#Criando uma função do programador com passagem de parâmetro
+#Início da função
+#def soma(a, b):
+#    c = a + b
+#    return c
+#Fim da Função  
