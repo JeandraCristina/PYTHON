@@ -53,4 +53,11 @@ print(resultado)
 #def soma(a, b):
 #    c = a + b
 #    return c
-#Fim da Função  
+#Fim da Função
+
+#--------------------------------------------------------------------------------------------------
+
+#Início do programa
+#resultado = soma(1, 2)
+#print(resultado)
+#Fim de Programa   
