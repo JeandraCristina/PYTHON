@@ -60,4 +60,11 @@ print(resultado)
 #Início do programa
 #resultado = soma(1, 2)
 #print(resultado)
-#Fim de Programa   
+#Fim de Programa 
+
+#=================================================================================================
+
+"""
+Argumentos opcionais: Forneça valores padrão para argumentos opcionais 
+para permitir que a função seja chamada sem fornecer valores para eles.
+"""  
