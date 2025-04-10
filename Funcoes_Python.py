@@ -112,4 +112,23 @@ receber uma quantidade variável de argumentos."""
 
 #---------------------------------------------------------------------------------------------
 
-  
+#Início do programa
+"""Funções anônimas ou LAMBDAS: Use a função lambda para criar 
+funções anônimas, que são funções sem nome."""
+
+#soma = lambda a, b: a + b
+#resultado = soma(1, 2)
+#print(resultado)
+#Fim de Programa
+
+#-------------------------------------------------------------------------------------------
+
+"""
+Funções externas ou MÓDULOS do Programador, são arquivos que contêm diversas funções
+que podem ser invocadas no programa com o comando import, esses arquivos
+devem ser salvos juntos na pasta do programa.
+"""
+#-------------------------------------------------------------------------------------------
+
+
+ 
