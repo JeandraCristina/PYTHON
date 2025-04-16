@@ -31,4 +31,5 @@ print('--'*15)
 
 #Faça um Programa que peça um número inteiro e retorne se ele e par ou ímpar.
 #Dicas: Todo número divisível por 2 é par!
-#Formúla: % (Módulo ou resto de divisão)​                    
+#Formúla: % (Módulo ou resto de divisão)​
+numero = int(input('Digite um número inteiro'))                    
