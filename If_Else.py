@@ -4,3 +4,6 @@ num2 = int(input('DIgite o 2° numero: '))
 
 if num1 > num2:
     print(f'O numero {num1} é maior') 
+else:
+    print(f'O numero {num2} é maior')
+print('--'*15)      
