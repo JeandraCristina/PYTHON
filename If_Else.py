@@ -11,4 +11,6 @@ print('--'*15)
 numero = float(input("Digite um número: "))
 
 if numero >= 0:
-    print(f'O numero {numero} é positivo')    
+    print(f'O numero {numero} é positivo')
+else:
+    print(f'O numero {numero} é negativo')            
