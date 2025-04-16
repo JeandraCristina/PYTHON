@@ -27,4 +27,8 @@ elif letra == 'M' or letra == 'm':
     print("Masculino")
 else:
     print("Sexo inválido")
-print('--'*15)                     
+print('--'*15)
+
+#Faça um Programa que peça um número inteiro e retorne se ele e par ou ímpar.
+#Dicas: Todo número divisível por 2 é par!
+#Formúla: % (Módulo ou resto de divisão)​                    
