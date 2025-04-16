@@ -19,4 +19,5 @@ else:
 
 #Se a letra for igual a 'F' retorne 'Feminino'
 #Se a letra for igual a 'M' retorne 'Masculino'
-#Qualquer outra letra retorne 'Sexo inválido'            
+#Qualquer outra letra retorne 'Sexo inválido'
+letra = input("Digite a letra correspondente ao sexo (F/M): ")            
