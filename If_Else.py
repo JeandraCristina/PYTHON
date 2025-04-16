@@ -8,4 +8,7 @@ else:
     print(f'O numero {num2} é maior')
 print('--'*15)  
 
-numero = float(input("Digite um número: "))    
+numero = float(input("Digite um número: "))
+
+if numero >= 0:
+    print(f'O numero {numero} é positivo')    
