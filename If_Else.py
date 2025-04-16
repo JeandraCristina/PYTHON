@@ -20,4 +20,7 @@ else:
 #Se a letra for igual a 'F' retorne 'Feminino'
 #Se a letra for igual a 'M' retorne 'Masculino'
 #Qualquer outra letra retorne 'Sexo inválido'
-letra = input("Digite a letra correspondente ao sexo (F/M): ")            
+letra = input("Digite a letra correspondente ao sexo (F/M): ")
+if letra == 'F' or letra == 'f':
+    print("Feminino")
+                
