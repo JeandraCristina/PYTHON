@@ -6,4 +6,6 @@ if num1 > num2:
     print(f'O numero {num1} é maior') 
 else:
     print(f'O numero {num2} é maior')
-print('--'*15)      
+print('--'*15)  
+
+numero = float(input("Digite um número: "))    
