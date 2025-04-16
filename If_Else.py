@@ -24,4 +24,7 @@ letra = input("Digite a letra correspondente ao sexo (F/M): ")
 if letra == 'F' or letra == 'f':
     print("Feminino")
 elif letra == 'M' or letra == 'm':
-    print("Masculino")                
+    print("Masculino")
+else:
+    print("Sexo inválido")
+print('--'*15)                     
