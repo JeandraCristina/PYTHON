@@ -76,4 +76,8 @@ print("-------------------------------------------------------------------------
 
 #Escreva um programa que pergunte a nota final do aluno, em seguida retorne:
 #Caso a nota final for maior ou igual a 5 retorne 'Você está aprovado.'
-#Caso a nota final for menor a 5 retorne 'Você está reprovado.                                               
+#Caso a nota final for menor a 5 retorne 'Você está reprovado.
+nota = int(input('digite sua nota final'))
+if nota > 5:
+    print('Você está aprovado')                                                 
+    
