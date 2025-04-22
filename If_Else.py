@@ -80,4 +80,5 @@ print("-------------------------------------------------------------------------
 nota = int(input('digite sua nota final'))
 if nota > 5:
     print('Você está aprovado')                                                 
-    
+else:
+    print('Você está reprovado')    
