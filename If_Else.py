@@ -56,4 +56,6 @@ print('--'*15)
 #ACESSO NEGADO, caso a senha seja inválida.
 senha = input('Digite sua senha')
 if senha == '1234':
-    print(f'ACESSO PERMITIDO')                                    
+    print(f'ACESSO PERMITIDO')
+else:
+    print(f'ACESSO NEGADO')                                         
