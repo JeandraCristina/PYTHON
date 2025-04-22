@@ -39,4 +39,7 @@ else:
     print(f'{numero} é um ímpar')
     
 print('--'*15)    
-                            
+
+#Faça um programa que pergunte a idade do usuário:
+#Se a idade for maior ou igual a 18 anos retorne 'Você é maior de idade.'
+#Senão retorne 'Você é menor de idade.'                            
