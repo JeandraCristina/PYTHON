@@ -64,4 +64,8 @@ print('--'*15)
 
 #Escreva um programa que peça para o usuário digitar um senha, em seguida peça para ele confirmar a senha digitada. Devem ser impressas as seguintes
 #SENHA CORRETA, caso ele tenha digitado a mesma senha duas vezes.
-#SENHA INCORRETA, caso ele tenha digitado senhas diferentes.                                            
+#SENHA INCORRETA, caso ele tenha digitado senhas diferentes.
+senha = input('Digite sua senha')
+confirmação = input('Confirme sua senha: ')
+if senha == confirmação:
+    print(f'SENHA CORRETA')                                               
