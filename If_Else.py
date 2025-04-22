@@ -68,4 +68,8 @@ print('--'*15)
 senha = input('Digite sua senha')
 confirmação = input('Confirme sua senha: ')
 if senha == confirmação:
-    print(f'SENHA CORRETA')                                               
+    print(f'SENHA CORRETA')   
+else:
+    print(f'SENHA INCORRETA') 
+    
+print("-------------------------------------------------------------------------")                                               
