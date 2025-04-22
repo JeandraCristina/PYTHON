@@ -58,4 +58,6 @@ senha = input('Digite sua senha')
 if senha == '1234':
     print(f'ACESSO PERMITIDO')
 else:
-    print(f'ACESSO NEGADO')                                         
+    print(f'ACESSO NEGADO') 
+
+print('--'*15)                                             
