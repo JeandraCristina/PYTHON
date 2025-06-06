@@ -16,7 +16,8 @@
    - Subtração
    * Multiplicação
    / Divisão
-   ** Exponenciação  
+   ** Exponenciação
+   % Resto  
 '''
  
 
