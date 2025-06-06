@@ -12,7 +12,9 @@
 
 '''
 # OPERADORES NÚMERICOS
-   + Adição  
+   + Adição
+   - Subtração
+     
 '''
  
 
