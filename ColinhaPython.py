@@ -6,5 +6,6 @@
     Inteiro = 10
     Flutuante = 10.5
     Palavra = 'Python'
+    Lista = ['Valor1', 'Valor2']
     
     """
