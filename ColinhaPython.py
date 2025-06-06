@@ -14,6 +14,7 @@
 # OPERADORES NÚMERICOS
    + Adição
    - Subtração
+   * Multiplicação
      
 '''
  
