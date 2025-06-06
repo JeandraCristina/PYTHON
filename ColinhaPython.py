@@ -17,7 +17,8 @@
    * Multiplicação
    / Divisão
    ** Exponenciação
-   % Resto  
+   % Resto
+   // Divisão de chão  
 '''
  
 
