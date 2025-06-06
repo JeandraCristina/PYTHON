@@ -15,6 +15,7 @@
    + Adição
    - Subtração
    * Multiplicação
+   / Divisão
      
 '''
  
