@@ -9,6 +9,11 @@
     Dicionário = [Chave1:Valor1, Chave2:Valor2]
     Tupla = ('Valor1', 'Valor2')
 '''
+
+'''
+# OPERADORES NÚMERICOS
+   + Adição  
+'''
  
 
     
