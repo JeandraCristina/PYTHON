@@ -30,6 +30,7 @@
 
 '''
 # OPERADORES DE COMPARAÇÃO
+    == Igual
     
 
 '''
