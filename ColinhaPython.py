@@ -41,7 +41,7 @@
 '''
 # CARACTERES ESPECIAIS
     # Comentários
-    
+    \n Nova linha
 
 '''
  
