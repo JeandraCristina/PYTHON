@@ -47,6 +47,7 @@
 
 '''
 # OPERAÇÕES EM LISTAS
+    Lista = []
 '''
  
 
