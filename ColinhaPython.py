@@ -49,6 +49,7 @@
 # OPERAÇÕES EM LISTAS
     Lista = []   Cria uma lista vazia
     Lista[x] = 1 Armazena valor na posição x
+    Lista[x]     Acessa o valor da posição x   
 '''
  
 
