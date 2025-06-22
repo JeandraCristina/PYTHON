@@ -51,7 +51,7 @@
     Lista[x] = 1 Armazena valor na posição x
     Lista[x]     Acessa o valor da posição x
     Lista[-1]    Acessa o ultimo valor da lista
-    
+    Lista[x:y]= [] Seleciona período da lista
 '''
  
 
