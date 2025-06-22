@@ -47,7 +47,8 @@
 
 '''
 # OPERAÇÕES EM LISTAS
-    Lista = []
+    Lista = [] Cria uma lista vazia
+    Lista = 
 '''
  
 
