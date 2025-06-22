@@ -47,8 +47,8 @@
 
 '''
 # OPERAÇÕES EM LISTAS
-    Lista = [] Cria uma lista vazia
-    Lista = 
+    Lista = []   Cria uma lista vazia
+    Lista[x] = 1 Armazena valor na posição x
 '''
  
 
