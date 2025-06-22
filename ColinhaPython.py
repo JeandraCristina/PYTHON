@@ -35,7 +35,7 @@
     >  Maior
     <  Menor
     >= Maior ou Igual
-
+    <= Menor ou Igual 
 '''
  
 
