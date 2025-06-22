@@ -24,6 +24,8 @@
 '''
 # OPERADORES BOOLEANOS
     and -> lógica "e"
+    or ->  lógica "ou"
+    
 '''
  
 
