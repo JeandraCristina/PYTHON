@@ -33,6 +33,7 @@
     == Igual
     != Diferente
     >  Maior
+    <  Menor
 
 '''
  
