@@ -27,6 +27,12 @@
     or ->  lógica "ou"
     not -> lógica "negação"
 '''
+
+'''
+# OPERADORES DE COMPARAÇÃO
+    
+
+'''
  
 
     
