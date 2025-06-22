@@ -42,7 +42,7 @@
 # CARACTERES ESPECIAIS
     # Comentários
     \n Nova linha
-
+    \<char> Inserir caractere de escape
 '''
  
 
