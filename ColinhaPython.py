@@ -20,6 +20,11 @@
    % Resto
    // Divisão de chão  
 '''
+
+'''
+# OPERADORES BOOLEANOS
+    and -> lógica "e"
+'''
  
 
     
