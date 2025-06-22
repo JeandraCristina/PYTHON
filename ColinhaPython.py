@@ -47,11 +47,12 @@
 
 '''
 # OPERAÇÕES EM LISTAS
-    Lista = []   Cria uma lista vazia
-    Lista[x] = 1 Armazena valor na posição x
-    Lista[x]     Acessa o valor da posição x
-    Lista[-1]    Acessa o ultimo valor da lista
-    Lista[x:y]= [] Seleciona período da lista
+    Lista = []          Cria uma lista vazia
+    Lista[x] = 1        Armazena valor na posição x
+    Lista[x]            Acessa o valor da posição x
+    Lista[-1]           Acessa o ultimo valor da lista
+    Lista[x:y] = []     Seleciona período da lista
+    Del Lista[x] = []   Remove o valor da lista
 '''
  
 
