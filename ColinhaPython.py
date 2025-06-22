@@ -32,7 +32,7 @@
 # OPERADORES DE COMPARAÇÃO
     == Igual
     != Diferente
-    
+    >  Maior
 
 '''
  
