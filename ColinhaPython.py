@@ -25,7 +25,7 @@
 # OPERADORES BOOLEANOS
     and -> lógica "e"
     or ->  lógica "ou"
-    
+    not -> lógica "negação"
 '''
  
 
