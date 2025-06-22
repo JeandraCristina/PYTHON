@@ -31,6 +31,7 @@
 '''
 # OPERADORES DE COMPARAÇÃO
     == Igual
+    != Diferente
     
 
 '''
