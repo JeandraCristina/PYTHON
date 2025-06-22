@@ -44,6 +44,10 @@
     \n Nova linha
     \<char> Inserir caractere de escape
 '''
+
+'''
+# OPERAÇÕES EM LISTAS
+'''
  
 
     
