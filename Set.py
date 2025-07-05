@@ -20,3 +20,6 @@ Iteração sobre um set:
 
 Usar for para iterar sobre os elementos do set.
 Combinar sets:
+
+set.update(set2): Adiciona os elementos de set2 a set.
+Remover elemento com segurança:
