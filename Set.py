@@ -2,3 +2,9 @@
 """ é uma coleção não ordenada e mutável de elementos únicos. 
 Os elementos de um set são definidos entre chaves, separados por vírgula.
 Operações básicas com sets:
+
+União: set1 | set2 ou set1.union(set2)
+Interseção: set1 & set2 ou set1.intersection(set2)
+Diferença: set1 - set2 ou set1.difference(set2)
+Diferença simétrica: set1 ^ set2 ou set1.symmetric_difference(set2)
+Verificação de pertencimento:
