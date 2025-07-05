@@ -23,3 +23,6 @@ Combinar sets:
 
 set.update(set2): Adiciona os elementos de set2 a set.
 Remover elemento com segurança:
+
+set.discard(elemento): Remove o elemento do set, se existir. Se não existir, não ocorre erro.
+Converter outras coleções para set:
