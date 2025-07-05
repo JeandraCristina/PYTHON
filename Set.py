@@ -8,3 +8,6 @@ Interseção: set1 & set2 ou set1.intersection(set2)
 Diferença: set1 - set2 ou set1.difference(set2)
 Diferença simétrica: set1 ^ set2 ou set1.symmetric_difference(set2)
 Verificação de pertencimento:
+
+elemento in set: Verifica se o elemento pertence ao set.
+Limpar o set:
