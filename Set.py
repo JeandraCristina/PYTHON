@@ -28,4 +28,6 @@ set.discard(elemento): Remove o elemento do set, se existir. Se não existir, n�
 Converter outras coleções para set:
 
 set(iterable): Cria um novo set a partir de um iterable (lista, tupla, string, etc.).
+
 """
+# Criando um set com algumas cores
