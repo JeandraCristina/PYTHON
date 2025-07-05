@@ -35,3 +35,4 @@ set(iterable): Cria um novo set a partir de um iterable (lista, tupla, string, e
 #print(cores)
 
 # Adicionando uma cor ao set
+#cores.add('roxo')
