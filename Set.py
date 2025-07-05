@@ -17,3 +17,6 @@ Copiar o set:
 
 set.copy(): Cria uma cópia do set.
 Iteração sobre um set:
+
+Usar for para iterar sobre os elementos do set.
+Combinar sets:
