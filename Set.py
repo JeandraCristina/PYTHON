@@ -26,3 +26,5 @@ Remover elemento com segurança:
 
 set.discard(elemento): Remove o elemento do set, se existir. Se não existir, não ocorre erro.
 Converter outras coleções para set:
+
+set(iterable): Cria um novo set a partir de um iterable (lista, tupla, string, etc.).
