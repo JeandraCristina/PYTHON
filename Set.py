@@ -14,3 +14,6 @@ Limpar o set:
 
 set.clear(): Remove todos os elementos do set.
 Copiar o set:
+
+set.copy(): Cria uma cópia do set.
+Iteração sobre um set:
