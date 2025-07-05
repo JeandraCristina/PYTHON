@@ -11,3 +11,6 @@ Verificação de pertencimento:
 
 elemento in set: Verifica se o elemento pertence ao set.
 Limpar o set:
+
+set.clear(): Remove todos os elementos do set.
+Copiar o set:
