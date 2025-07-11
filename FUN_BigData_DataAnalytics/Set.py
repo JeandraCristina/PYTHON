@@ -1,0 +1,40 @@
+#Set
+""" 
+é uma coleção não ordenada e mutável de elementos únicos. 
+Os elementos de um set são definidos entre chaves, separados por vírgula.
+Operações básicas com sets:
+
+União: set1 | set2 ou set1.union(set2)
+Interseção: set1 & set2 ou set1.intersection(set2)
+Diferença: set1 - set2 ou set1.difference(set2)
+Diferença simétrica: set1 ^ set2 ou set1.symmetric_difference(set2)
+
+Verificação de pertencimento:
+elemento in set: Verifica se o elemento pertence ao set.
+
+Limpar o set:
+set.clear(): Remove todos os elementos do set.
+
+Copiar o set:
+set.copy(): Cria uma cópia do set.
+
+Iteração sobre um set:
+Usar for para iterar sobre os elementos do set.
+
+Combinar sets:
+set.update(set2): Adiciona os elementos de set2 a set.
+
+Remover elemento com segurança:
+set.discard(elemento): Remove o elemento do set, se existir. Se não existir, não ocorre erro.
+
+Converter outras coleções para set:
+set(iterable): Cria um novo set a partir de um iterable (lista, tupla, string, etc.).
+
+"""
+# Criando um set com algumas cores
+#cores = {'vermelho', 'verde','azul', 'amarelo','vermelho','verde','verde','amarelo','vermelha'}
+#print(cores)
+
+# Adicionando uma cor ao set
+#cores.add('roxo')
+#print(cores)
