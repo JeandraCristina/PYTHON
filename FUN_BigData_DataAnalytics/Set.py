@@ -38,3 +38,9 @@ set(iterable): Cria um novo set a partir de um iterable (lista, tupla, string, e
 # Adicionando uma cor ao set
 #cores.add('roxo')
 #print(cores)
+
+# Removendo uma cor do set
+#cores.remove('verde')
+#print(cores)
+
+# Operações básicas com sets
