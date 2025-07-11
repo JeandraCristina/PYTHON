@@ -48,3 +48,4 @@ set(iterable): Cria um novo set a partir de um iterable (lista, tupla, string, e
 #set2 = {4, 5, 6, 7, 8}
 
 #uniao = set1.union(set2)
+#intersecao = set1.intersection(set2)
