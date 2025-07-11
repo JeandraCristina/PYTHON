@@ -51,3 +51,5 @@ set(iterable): Cria um novo set a partir de um iterable (lista, tupla, string, e
 #intersecao = set1.intersection(set2)
 #diferenca = set1.difference(set2)
 #diferenca_simetrica = set1.symmetric_difference(set2)
+
+#print("União:", uniao)
