@@ -46,3 +46,5 @@ set(iterable): Cria um novo set a partir de um iterable (lista, tupla, string, e
 # Operações básicas com sets
 #set1 = {1, 2, 3, 4, 5}
 #set2 = {4, 5, 6, 7, 8}
+
+#uniao = set1.union(set2)
