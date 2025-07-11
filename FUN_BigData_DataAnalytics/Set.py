@@ -55,3 +55,4 @@ set(iterable): Cria um novo set a partir de um iterable (lista, tupla, string, e
 #print("União:", uniao)
 #print("Interseção:", intersecao)
 #print("Diferença:", diferenca)
+#print("Diferença Simétrica:", diferenca_simetrica)
