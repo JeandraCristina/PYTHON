@@ -66,3 +66,4 @@ set(iterable): Cria um novo set a partir de um iterable (lista, tupla, string, e
 
 # Combinar sets
 #set1.update(set2)
+#print("Set1 após combinar com Set2:", set1)
