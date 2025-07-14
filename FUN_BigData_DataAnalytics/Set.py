@@ -75,3 +75,4 @@ set(iterable): Cria um novo set a partir de um iterable (lista, tupla, string, e
 # Converter uma lista para set
 #lista = [1, 2, 3, 3, 4, 5, 5]
 #set_da_lista = set(lista)
+#print("Set a partir da lista:", set_da_lista)
