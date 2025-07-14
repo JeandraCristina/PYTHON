@@ -73,3 +73,4 @@ set(iterable): Cria um novo set a partir de um iterable (lista, tupla, string, e
 #print("Set1 após remover 4:", set1)
 
 # Converter uma lista para set
+#lista = [1, 2, 3, 3, 4, 5, 5]
